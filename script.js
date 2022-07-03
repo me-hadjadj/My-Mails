@@ -13,7 +13,7 @@ $('#btn-add').click(function(){
                         <div class="row">
                             <img class="avatar" src="avatar-1.jpg">
                             <div>
-                                <h6>Eric Dupont</h6>
+                                <h6>Mehdi Hadadj</h6>
                                 <p>`+ message + `</p>
                             </div>
                             <img class="trash"src="trash.png">
